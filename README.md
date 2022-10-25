@@ -8,10 +8,6 @@ This also allows you to have multiple containers listening on the same port to a
 
 Add, delete or update the list of vulnerable containers for your own needs!
 
-## Video Walkthrough
-
-Walkthrough posted at: https://www.jongood.com/build-a-hacking-lab-with-docker-containers-become-a-hacker/
-
 
 ## Prerequisites
 
@@ -62,4 +58,4 @@ to stop and remove the running containers.
 ## Credits
 
 - Original Idea (Vulhub): https://github.com/vulhub/vulhub
-- Modified Code (SecurityWeekly): https://github.com/SecurityWeekly/vulhub-lab
+
