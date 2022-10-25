@@ -56,9 +56,6 @@ services:
        
  kali:
    build: ./kali
-   # Note: If you don't want to build everything, use the image then apt install what you want/need
-   # Also note: Building everything, even kali-linux-headless, takes a really long time to build
-   #image: kalilinux/kali-rolling
    container_name: kali
    hostname: kali
    tty: true
